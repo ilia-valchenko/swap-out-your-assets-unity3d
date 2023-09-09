@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1117
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 93
+  controlID: 113
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -230,7 +230,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 141
+  controlID: 112
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -441,7 +441,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Course Library/Textures/Ground/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -480,10 +480,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 47}
+    scrollPos: {x: 0, y: 60}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000005c4400005e44000060440000624400006444000066440000684400006a440000
+    m_ExpandedIDs: ffffffff000000005c44000066440000684400006a44000086440000dc440000a24b0000c84b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -715,7 +715,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.112016596, y: 0.8520369, z: -0.20336576, w: -0.4692141}
     speed: 2
-    m_Value: {x: -0.113025166, y: 0.8510119, z: -0.20447081, w: -0.47031462}
+    m_Value: {x: -0.11201469, y: 0.85202235, z: -0.20336229, w: -0.46920612}
   m_Size:
     m_Target: 10.45
     speed: 2
@@ -772,9 +772,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 98f7ffff
       m_LastClickedID: 0
-      m_ExpandedIDs: 6efbffff
+      m_ExpandedIDs: 6efbffff603d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
